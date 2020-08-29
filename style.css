@@ -3,6 +3,10 @@
   /* font-family: 'Merriweather'; */
 }
 
+h1 {
+    color: blue;
+}
+
 ul.menu {
     list-style-type: none;
     margin: 0;
